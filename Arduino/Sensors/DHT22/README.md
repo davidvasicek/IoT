@@ -1,1 +1,1 @@
-dddd
+#Teplotní senzor DHT22
