@@ -10,7 +10,7 @@
 
 #### Videonávod
     
-    Kompletní videonávod můžete sledovat na tomto [odkazu](https://www.youtube.com/watch?v=nvPOUdz5PL4).
+Kompletní videonávod můžete sledovat na tomto [odkazu](https://www.youtube.com/watch?v=nvPOUdz5PL4).
 
 #### DHT22 zapojení
 
