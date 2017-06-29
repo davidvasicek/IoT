@@ -1,6 +1,8 @@
 ## Teplotní senzor DHT22
 
-1.Připojte teplotní čidlo DHT22 k Arduino desce, dle následujícího zapojení.
+1. Připojte teplotní čidlo DHT22 k Arduino desce. (VCC Data X GND)
+2. Spusťte Arduino IDE.
+3. Naistalujte knihovnu DHT22.
+  1. halo
 
 
-![alt text](http://arduinolearning.com/wp-content/uploads/2016/04/dhts_bb.png)
