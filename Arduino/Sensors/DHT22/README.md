@@ -4,5 +4,5 @@
 2. Spusťte Arduino IDE.
 3. Naistalujte knihovnu DHT22.
     * halo
-
+    - gfgf
 
