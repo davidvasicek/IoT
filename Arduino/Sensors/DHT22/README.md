@@ -7,6 +7,7 @@
     * Do pole Filter tvého hledání vepište výraz *dht*.
     * Zvolte **DHT sensor library by Adafruit** s klikněte na Instalace.
 4. Vložte kód do Arduino IDE a nahrejte jej do vaší desky Arduino.
+5. Spusťte seriový monitor (Nástroje -> seriový monitor)
 
 #### Videonávod
     
