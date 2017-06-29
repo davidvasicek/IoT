@@ -7,3 +7,4 @@
     * do Filter tvého hledání vepište výraz DHT22
 
 ![alt text](https://github.com/davidvasicek/IoT/blob/master/Arduino/Sensors/DHT22/DHT_connection.png)
+![alt text](https://github.com/davidvasicek/IoT/blob/master/Arduino/Sensors/DHT22/DHT_connection1.png)
