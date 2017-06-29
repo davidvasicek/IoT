@@ -6,7 +6,7 @@
     * Projekt -> Přidat knihovnu -> Spravovat knihovny .
     * Do pole Filter tvého hledání vepište výraz *dht*.
     * Zvolte **DHT sensor library by Adafruit** s klikněte na Instalace.
-4. Vložte kód a nahrejte jej do vaší desky Arduino.
+4. Vložte kód do Arduino IDE a nahrejte jej do vaší desky Arduino.
 
 #### Videonávod
     
