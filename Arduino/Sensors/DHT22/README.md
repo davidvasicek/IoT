@@ -6,4 +6,4 @@
     * Projekt -> Přidat knihovnu -> Spravovat knihovny 
     * do Filter tvého hledání vepište výraz DHT22
 
-[link to Google!](https://cdn0.iconfinder.com/data/icons/doodle-communication/91/Doodle_Communication_08-32.png)
+![alt text](https://cdn0.iconfinder.com/data/icons/doodle-communication/91/Doodle_Communication_08-32.png)
