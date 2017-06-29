@@ -9,7 +9,8 @@
 4. Vložte kód a nahrejte jej do vaší desky Arduino.
 
 #### Videonávod
->Kompletní návod můžete sledovat v tomto videonávodu. [Videonávod](https://www.youtube.com/watch?v=nvPOUdz5PL4).
+    
+    Kompletní videonávod můžete sledovat na tomto [odkazu](https://www.youtube.com/watch?v=nvPOUdz5PL4).
 
 #### DHT22 zapojení
 
