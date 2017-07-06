@@ -10,4 +10,6 @@ Kompletní videonávod můžete sledovat na tomto [odkazu](https://www.youtube.c
 
 #### DHT22 zapojení
 
-![alt text](https://github.com/davidvasicek/IoT/blob/master/Arduino/Sensors/Relay/DHT_connection.png)
+C = Common, NC = Normal Closed, NO = Normall Open
+
+![alt text](https://github.com/davidvasicek/IoT/blob/master/Arduino/Sensors/Relay/Relay_connection.png)
