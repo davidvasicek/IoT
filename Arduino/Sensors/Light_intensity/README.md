@@ -9,9 +9,9 @@
 
 #### Postup
 
-1. gg
-2. gg
-3. gg
+1. Zapojte obvod dle zapojení níže (~3 = PWM pin)
+2. Spusťte software Arduino IDE.
+3. Vložte kód do Arduino IDE a nahrejte jej do vaší desky Arduino.
 
 #### Videonávod
     
